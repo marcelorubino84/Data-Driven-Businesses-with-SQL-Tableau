@@ -32,7 +32,7 @@ The main purpose of the presentation is to recommend whether or not to sign the 
 
 **Tableau:** Public, version 2022.2
 
-**Data** Obtained from WBS coding school
+**Data:** Obtained from [WBS coding school](https://www.wbscodingschool.com/)
 
 
 ### Analysis:
