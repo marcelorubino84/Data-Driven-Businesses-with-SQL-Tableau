@@ -82,7 +82,7 @@ eCommerce service provider Magist seems not be a good starting point to enter br
 * Magist is dominated from low-value-orders concerning tech products
 * Average delivery time an Magist is 1-3 weeks, 10 % of all deliveries are delayed
 
-## Not sign 3y-contract with Magist
+### Not sign 3y-contract with Magist
 
 #### Future recommandation:
 
