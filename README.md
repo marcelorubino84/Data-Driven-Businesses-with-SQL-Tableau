@@ -29,7 +29,9 @@ The main purpose of the presentation is to recommend whether or not to sign the 
 ### Code and resources used:
 
 **MySQL:** MySQL Workbench, version 8.0.32
+
 **Tableau:** Public, version 2022.2
+
 **Data** Obtained from WBS coding school
 
 
@@ -42,7 +44,7 @@ The main purpose of the presentation is to recommend whether or not to sign the 
 * Avg order price: €710
 * Avg item price: €540
 
-**Magist:
+**Magist:**
 
 * Magist eCommerce platform is dominated by low-value orders and high concentration of orders on a few sellers
 * Monthly tech revenue of sellers on Magist rarely over 300 €/m
@@ -80,11 +82,11 @@ eCommerce service provider Magist seems not be a good starting point to enter br
 * Magist is dominated from low-value-orders concerning tech products
 * Average delivery time an Magist is 1-3 weeks, 10 % of all deliveries are delayed
 
-##### Not sign 3y-contract with Magist
+## Not sign 3y-contract with Magist
 
 #### Future recommandation:
 
 * Analysis of alternative eCommerce platforms
-* consideration of use of last mile transportation service providers for urban areas to provide next-day-delivery
+* Consideration of use of last mile transportation service providers for urban areas to provide next-day-delivery
 
 
