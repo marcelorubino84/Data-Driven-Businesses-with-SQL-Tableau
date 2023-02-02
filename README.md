@@ -74,7 +74,7 @@ The main purpose of the presentation is to recommend whether or not to sign the 
   * Apple mobile phone: 16.67% (3rd place- statcounter.com – Last 12 months)
   * OS X: 9.21% (2020 – Statista.com)
 * 4 million iPhones, average price 7,500 Reals = **51 billion € market size iPhones** (apple.com/br)
-* **E-commerce market** > $49 Billion by 2022 > $86 Billion by 2025 and increasing with **20% growth rate
+* **E-commerce market** > $49 Billion by 2022 > $86 Billion by 2025 and increasing with **20% growth rate**
 
 #### Recommendation for action:
 
